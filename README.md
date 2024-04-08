@@ -117,8 +117,8 @@ pkill -9 tor
 
 ## Contributors
 
-- [Mohamed Fouad](https://github.com/Mohamed9x60)
-- [My Facebook](https://www.facebook.com/profile.php?id=100014784496206&mibextid=ZbWKwL)
+
+- [My Facebook](https://www.facebook.com/mohmed.nabil.90813)
 ## Screenshot
 
 ![Screenshot_٢٠٢٤٠٣٠٥-١٥٢٦٣٧_Termux](https://github.com/Mohamed9x60/TorVpn/assets/162137526/0c75391c-016b-4bee-b946-f9a9d713b473)
